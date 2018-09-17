@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da349d4e-ba2c-4c2c-a89f-b6040cdf63bf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/gameagent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/gamecanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/games/21.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/games/cheekypostit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/games/confession.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/games/drinktionary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/games/fuzzyduck.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/games/gecko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/games/slapcup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/games/template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/games/truthorshot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/games/whoami.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/initialise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/instruction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/setting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/settings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/settingscanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/titlecanvas.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gazeboed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gazeboedResource/JQuery/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/resource/JQuery/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gazeboedResource/bootstrap-4/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/resource/bootstrap-4/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gazeboedResource/bootstrap-4/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resource/bootstrap-4/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gazeboedResource/gazeboed.gif" beforeDir="false" afterPath="$PROJECT_DIR$/resource/gazeboed.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gazeboedResource/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gazeboedResource/mainStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gazeboedResource/nouned.js" beforeDir="false" afterPath="$PROJECT_DIR$/resource/nouned.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google fonts.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listparse.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nounList.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nouned.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/resource/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -64,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resource/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="214" column="15" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="15" />
+            <state relative-caret-position="345">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -109,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="notes.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="notes.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resource/notes.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+            <state relative-caret-position="241">
+              <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -195,6 +161,8 @@
         <option value="$PROJECT_DIR$/gazeboedResource/gamecanvas.js" />
         <option value="$PROJECT_DIR$/gazeboed.html" />
         <option value="$PROJECT_DIR$/resource/notes.txt" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/resource/main.css" />
       </list>
     </option>
   </component>
@@ -272,12 +240,12 @@
       <updated>1536515986042</updated>
       <workItem from="1536515989100" duration="46026000" />
       <workItem from="1536744549754" duration="27255000" />
-      <workItem from="1536782249352" duration="35802000" />
+      <workItem from="1536782249352" duration="36979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109083000" />
+    <option name="totallyTimeSpent" value="110260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="723" extended-state="6" />
@@ -597,13 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="214" column="15" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/page.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-261">
@@ -625,6 +586,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resource/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resource/gamecanvas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -634,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="n#style#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -643,10 +611,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/notes.txt">
+    <entry file="file://$PROJECT_DIR$/resource/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+        <state relative-caret-position="345">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
         </state>
       </provider>
     </entry>
